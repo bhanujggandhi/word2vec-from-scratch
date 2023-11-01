@@ -158,3 +158,7 @@ To address this, we need to introduce _negative samples_ to our dataset, which a
 
 1. Window Size
 2. Number of Negative Samples
+
+## References
+
+https://jalammar.github.io/illustrated-word2vec/
